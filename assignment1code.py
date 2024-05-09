@@ -1,6 +1,6 @@
 # ENSF 692 Spring 2024
 # Assignment 1 Starter Code
-# Add your name here! 
+# Laurel Flanagan
 
 studentName = "Laurel Flanagan"  # Change the contents of this variable to your name (leave the quotation marks).
 
